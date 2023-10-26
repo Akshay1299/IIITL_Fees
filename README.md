@@ -32,3 +32,15 @@ To set up and run the IIITL Fee Portal on your local machine, follow these steps
 1. **Clone the Repository**:
    ```shell
    git clone <repository_url>
+2. **Install Dependencies**:
+   ```shell
+   npm install
+3. **Configure Environment Variables**:
+   Set up the necessary environment variables, including MongoDB and Firebase configurations.
+4. **Database Setup**:
+   Create the required database and collections in MongoDB and set up Firebase for secure authentication and storage.
+5. **Run the Application**:
+   ```shell
+   node app.js
+6. **Access the Portal**:
+   Open your web browser and visit http://localhost:3000 to access the IIITL Fee Portal.
