@@ -1,4 +1,5 @@
 # IIITL Fee Portal - README
+## This is a web application designed to simplify and enhance the fee payment process for IIIT Lucknow.
 
 ## Project Overview
 
