@@ -31,7 +31,7 @@ To set up and run the IIITL Fee Portal on your local machine, follow these steps
 
 1. **Clone the Repository**:
    ```shell
-   git clone <repository_url>
+   git clone <https://github.com/Akshay1299/IIITL_Fees/tree/main>
 2. **Install Dependencies**:
    ```shell
    npm install
