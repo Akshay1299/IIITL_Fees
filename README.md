@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-The IIITL Fee Portal is a web application designed to simplify and enhance the fee payment process for college students. It offers a user-centric interface for conveniently paying fees and receiving digital receipts. Additionally, the portal incorporates data analytics features to provide insights into fee collection trends, enabling informed decisions by the institute.
+The IIITL Fee Portal is a web application designed to simplify and enhance the fee payment process for college students. It offers a user-centric interface for conveniently paying fees and receiving digital receipts. Additionally, the portal incorporates data analytics features to provide insights into fee collection trends, enabling informed decisions by the institute. 
+
 
 ## Technologies Used
 
